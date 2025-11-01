@@ -25,7 +25,7 @@ I am a detail-oriented problem-solver with proven hands-on experience in complex
 
 | Certification | Status | Verification (Credly) |
 | :--- | :--- | :---: | 
-| AWS Certified Solutions Architect - Associate (SAA) | Certified | [View Badge]([https://www.credly.com/users/mbugua-immanuel](https://www.credly.com/badges/1100e238-916b-4ed1-b2a0-32beeee14cbd/public_url)) | 
+| AWS Certified Solutions Architect - Associate (SAA) | Certified | [View Badge]([https://www.credly.com/users/mbugua-immanuel](https://www.credly.com/badges/1100e238-916b-4ed1-b2a0-32beeee14cbd/public_url) | 
 | AWS Certified Cloud Practitioner (CCP) | Certified | [View Badge](https://www.credly.com/users/mbugua-immanuel) |
 
 ## 🛠️ My Technical Toolkit
