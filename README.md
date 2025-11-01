@@ -2,7 +2,7 @@
 
 Hi there! 👋 Welcome to my Cloud - Dev Profile!
 
-I'm Immanuel Mbugua, a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer with a strong foundation in full-stack development.
+I'm ## Immanuel Mbugua, a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer with a strong foundation in full-stack development.
 
 My passion lies in bridging the gap between robust, scalable cloud architecture and efficient software development. I specialize in building resilient applications and optimizing deployment pipelines using automation.
 
