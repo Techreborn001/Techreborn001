@@ -54,7 +54,7 @@ Feel free to explore my repositories and projects that showcase my cloud, automa
 | :--- | :--- | 
 | **GitHub** | [github.com/techreborn001](https://github.com/techreborn001) | 
 | **Credly** | [credly.com/users/mbugua-immanuel](https://www.credly.com/users/mbugua-immanuel) | 
-| **LinkedIn** | [linkedin.com/in/immanuel-mbugua-02766a2b8](https://www.google.com/search?q=https://www.linkedin.com/in/immanuel-mbugua-02766a2b8) | 
+| **LinkedIn** | [linkedin.com/in/immanuel-mbugua-02766a2b8] | 
 | **Email** | ImmanuelMbugua@gmail.com | 
 
  ##### *Together let’s innovate the future!!*
