@@ -1,4 +1,4 @@
-## Immanuel Mbugua - Cloud & DevOps Engineer
+## Immanuel Mbugua - Jr Cloud & DevOps Engineer
 
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Cloud - Dev Profile!
 
