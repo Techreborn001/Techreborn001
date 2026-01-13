@@ -13,7 +13,7 @@ I specialize in bridging the gap between robust cloud architecture and efficient
 |[🎨 Front-End Development](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | [⚙️ Back-End Engineering](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:backend) |[🚀 CloudOps & Infrastructure](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:cloudops) | 
 | :--- | :--- | :--- |
 | **Focus:** UI/UX, React, Bootstrap | **Focus:** Node.js, PERN Stack, APIs | **Focus:** AWS, Terraform, Docker, K8s |
-| **Featured:** [MyPortfolio](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend),[TinDog](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | **Featured:** *Coming soon* | **Featured:** [Terraform-Practice](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
+| **Featured:** [My-Portfolio](https://techreborn001.github.io/My-Portfolio/),[TinDog](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | **Featured:** *Coming soon* | **Featured:** [Terraform-Practice](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
  
 
 ### 🏆 Professional Certifications
