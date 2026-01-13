@@ -6,41 +6,32 @@ I am a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer. My j
 
 I specialize in bridging the gap between robust cloud architecture and efficient software development through automation and resilient systems.
 
-**🛠️ Project Portfolios**
+### 🛠️ Project Portfolios
 
 *Select a category to explore my specialized repositories and technical documentation.*
 
-🎨 Front-End Development
+|[🎨 Front-End Development](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | [⚙️ Back-End Engineering](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:backend) |[🚀 CloudOps & Infrastructure](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:cloudops) | 
+| :--- | :--- | :--- |
+| **Focus:** UI/UX, React, Bootstrap | **Focus:** Node.js, PERN Stack, APIs | **Focus:** AWS, Terraform, Docker, K8s |
+| **Featured:** [MyPortfolio](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend),[TinDog](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | **Featured:** *Coming soon* | **Featured:** [Terraform-Practice](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
+ 
 
-⚙️ Back-End Engineering
 
-🚀 CloudOps & Infrastructure
 
-Focus: UI/UX, React, Bootstrap
 
-Focus: Node.js, PERN Stack, APIs
 
-Focus: AWS, Terraform, Docker, K8s
 
-Featured: MoveIt Company
 
-Featured: PERN Auth System
 
-Featured: AWS Support Scripts
 
-🏆 Professional Certifications
 
-Certification
 
-Verification (Credly)
 
-AWS Certified Solutions Architect – Associate
 
-View Badge
 
-AWS Certified Cloud Practitioner
 
-View Badge
+
+ 
 
 🧰 Technical Toolkit
 
