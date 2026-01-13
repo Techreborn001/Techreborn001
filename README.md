@@ -13,7 +13,7 @@ I specialize in bridging the gap between robust cloud architecture and efficient
 |[🎨 Front-End Development](https://github.com/techreborn001?tab=repositories&q=topic:frontend) | [⚙️ Back-End Engineering](https://github.com/techreborn001?tab=repositories&q=topic:backend) |[🚀 CloudOps & Infrastructure](https://github.com/techreborn001?tab=repositories&q=topic:cloudops) | 
 | :--- | :--- | :--- |
 | **Focus:** UI/UX, React, Bootstrap | **Focus:** Node.js, PERN Stack, APIs | **Focus:** AWS, Terraform, Docker, K8s |
-| **Featured:** [My-Portfolio](https://techreborn001.github.io/My-Portfolio/),[TinDog-Dating-Site](https://techreborn001.github.io/TinDog-Dating-Site/) | **Featured:** *Coming soon* | **Featured:** [Terraform-Practice](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
+| **Featured:** [My-Portfolio](https://techreborn001.github.io/My-Portfolio/),[TinDog-Dating-Site](https://techreborn001.github.io/TinDog-Dating-Site/) | **Featured:** *Coming soon* | **Featured:** [Coming soon](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
  
 
 ### 🏆 Professional Certifications
