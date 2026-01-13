@@ -1,14 +1,14 @@
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Immanuel Mbugua
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Immanuel Mbugua
 
-☁️ Cloud Support Engineer | DevOps Enthusiast | Full-Stack Developer
+## ☁️ Cloud Support Engineer | DevOps Enthusiast | Full-Stack Developer
 
-I am a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer. My journey accelerated when I was selected as one of only 15 interns from over 3,000 applicants for the inaugural AWS Kenya Cloud Support Engineer Internship.
+I am a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer. My journey accelerated when I was selected as one of only **15 interns from over 3,000 applicants** for the inaugural **AWS Kenya Cloud Support Engineer Internship.**
 
 I specialize in bridging the gap between robust cloud architecture and efficient software development through automation and resilient systems.
 
-🛠️ Project Portfolios
+**🛠️ Project Portfolios**
 
-Select a category to explore my specialized repositories and technical documentation.
+*Select a category to explore my specialized repositories and technical documentation.*
 
 🎨 Front-End Development
 
