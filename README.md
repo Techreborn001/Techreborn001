@@ -20,8 +20,8 @@ I specialize in bridging the gap between robust cloud architecture and efficient
 
 | Certification | Verfication (Credly) | 
 | :--- | :--- | 
-| **AWS Certified Solutions Architect – Associate** |  [View Badge](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | 
-| **AWS Certified Cloud Practitioner** | [View Badge](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | 
+| **AWS Certified Solutions Architect – Associate** |  [View Badge](https://www.credly.com/badges/1100e238-916b-4ed1-b2a0-32beeee14cbd/public_url)| 
+| **AWS Certified Cloud Practitioner** | [View Badge](https://www.credly.com/badges/24b86cd6-63d4-4718-9673-684e10b1d28b/public_url) | 
 
  
 ## 🧰 Technical Toolkit
