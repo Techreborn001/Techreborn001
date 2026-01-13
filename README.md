@@ -1,61 +1,75 @@
-## Immanuel Mbugua - Jr Cloud & DevOps Engineer
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Immanuel Mbugua
 
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Cloud - Dev Profile!
+☁️ Cloud Support Engineer | DevOps Enthusiast | Full-Stack Developer
 
-I'm **Immanuel Mbugua**, a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer with a strong foundation in full-stack development.
+I am a 2x AWS Certified professional and an aspiring Cloud/DevOps Engineer. My journey accelerated when I was selected as one of only 15 interns from over 3,000 applicants for the inaugural AWS Kenya Cloud Support Engineer Internship.
 
-My passion lies in bridging the gap between **robust**, **scalable cloud architecture** and efficient software development. I specialize in building **resilient applications** and optimizing deployment pipelines using automation.
+I specialize in bridging the gap between robust cloud architecture and efficient software development through automation and resilient systems.
 
-## 🚀 About My Journey
+🛠️ Project Portfolios
 
-I am a detail-oriented problem-solver with proven hands-on experience in complex technical environments. My journey accelerated when I was selected as one of only 15 interns from over 3,000 applicants for the inaugural AWS Kenya Cloud Support Engineer Internship.
+Select a category to explore my specialized repositories and technical documentation.
 
-### My key areas of expertise include:
+🎨 Front-End Development
 
-- **Cloud Architecture:** Designing and managing infrastructure using AWS Core Services (EC2, Lambda, VPC, RDS, S3) guided by my AWS Solutions Architect - Associate certification.
+⚙️ Back-End Engineering
 
-- **Automation:** Developing JS (IaC) scripts to streamline support workflows, automate infrastructure tasks, and enhance system reliability.
+🚀 CloudOps & Infrastructure
 
-- **Full-Stack Capability:** Proficient in creating enterprise-grade applications using **React** on the frontend and **Express.js**, **Node.js**, and **PostgreSQL (PERN)** on the backend.
+Focus: UI/UX, React, Bootstrap
 
-- **DevOps Focus:** Leveraging **Docker** and **Kubernetes** principles for containerization, and integrating CI/CD practices to ensure fast, reliable deployments.
+Focus: Node.js, PERN Stack, APIs
 
+Focus: AWS, Terraform, Docker, K8s
 
- ## 🏆 Certifications
+Featured: MoveIt Company
 
-| Certification | Status | Verification (Credly) |
-| :--- | :--- | :---: | 
-| AWS Certified Solutions Architect - Associate (SAA) | Certified | [View Badge](https://www.credly.com/badges/1100e238-916b-4ed1-b2a0-32beeee14cbd/public_url) | 
-| AWS Certified Cloud Practitioner (CCP) | Certified | [View Badge](https://www.credly.com/badges/24b86cd6-63d4-4718-9673-684e10b1d28b/public_url) |
+Featured: PERN Auth System
 
-## 🛠️ My Technical Toolkit
- 
- ### Cloud & DevOps
+Featured: AWS Support Scripts
 
-| Category | Technologies | 
-| :--- | :--- | 
-| **AWS Core Services** | EC2, S3, VPC, RDS, Lambda, IAM, CloudWatch, DynamoDB | 
-| **DevOps Tools** | Docker, Kubernetes, CI/CD, Git, Agile | 
-| **Cloud Concepts** | IaaS, PaaS, SaaS, IaC, Public/Private/Hybrid Cloud |
+🏆 Professional Certifications
 
-### Programming & Web
+Certification
 
-| Category | Technologies | 
-| :--- | :--- | 
-| **Languages** | JavaScript, Python | 
-| **Frameworks** | React, Node.js | 
-| **Databases** | MySQL, PostgreSQL |
- 
+Verification (Credly)
 
-## 📬 Get in Touch
-Feel free to explore my repositories and projects that showcase my cloud, automation, and full-stack work. I'm always open to discussing new opportunities or collaborating on impactful solutions!
+AWS Certified Solutions Architect – Associate
 
-| Platform | Link | 
-| :--- | :--- | 
-| **GitHub** | [github.com/techreborn001](https://github.com/techreborn001) | 
-| **Credly** | [credly.com/users/mbugua-immanuel](https://www.credly.com/users/mbugua-immanuel) | 
-| **LinkedIn** | [linkedin.com/in/immanuel-mbugua-02766a2b8](https://www.linkedin.com/in/immanuel-mbugua-02766a2b8) |
-| **Email** | ImmanuelMbugua@gmail.com | 
+View Badge
 
- ##### *Together let’s innovate the future!!*
+AWS Certified Cloud Practitioner
 
+View Badge
+
+🧰 Technical Toolkit
+
+Cloud & DevOps
+
+Infrastructure: EC2, S3, VPC, RDS, Lambda, IAM, Route 53
+
+Containers/Orchestration: Docker, Kubernetes (K8s)
+
+IaC & Automation: Terraform, CloudFormation, Bash/Python Scripting
+
+Monitoring: CloudWatch, AWS Trusted Advisor
+
+Software Development
+
+Languages: JavaScript (ES6+), Python
+
+Web: React, Node.js, Express.js
+
+Databases: PostgreSQL, MySQL, DynamoDB
+
+📈 Current Roadmap
+
+[ ] AWS Certified Security – Specialty (Exam Prep)
+
+[ ] Mastering Infrastructure as Code (IaC) with Terraform & LocalStack
+
+[ ] Implementing advanced CI/CD pipelines for multi-region deployments
+
+📬 Connect With Me
+
+“Simulating a professional team workflow to build reliable project delivery.”
