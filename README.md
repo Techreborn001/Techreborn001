@@ -16,44 +16,35 @@ I specialize in bridging the gap between robust cloud architecture and efficient
 | **Featured:** [MyPortfolio](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend),[TinDog](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | **Featured:** *Coming soon* | **Featured:** [Terraform-Practice](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) |
  
 
+### 🏆 Professional Certifications
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Certification | Verfication (Credly) | 
+| :--- | :--- | 
+| **AWS Certified Solutions Architect – Associate** |  [View Badge](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | 
+| **AWS Certified Cloud Practitioner** | [View Badge](https://www.google.com/search?q=https://github.com/techreborn001%3Ftab%3Drepositories%26q%3Dtopic:frontend) | 
 
  
+## 🧰 Technical Toolkit
 
-🧰 Technical Toolkit
+### Cloud & DevOps
 
-Cloud & DevOps
+- **Infrastructure:** EC2, S3, VPC, RDS, Lambda, IAM, Route 53
 
-Infrastructure: EC2, S3, VPC, RDS, Lambda, IAM, Route 53
+- **Containers/Orchestration:** Docker, Kubernetes (K8s)
 
-Containers/Orchestration: Docker, Kubernetes (K8s)
+- **IaC & Automation:** Terraform, CloudFormation, Bash/Python Scripting
 
-IaC & Automation: Terraform, CloudFormation, Bash/Python Scripting
+- **Monitoring:** CloudWatch, AWS Trusted Advisor
 
-Monitoring: CloudWatch, AWS Trusted Advisor
+### Software Development
 
-Software Development
+- **Languages:** JavaScript (ES6+), Python
 
-Languages: JavaScript (ES6+), Python
+- **Web:** React, Node.js, Express.js
 
-Web: React, Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, DynamoDB
 
-Databases: PostgreSQL, MySQL, DynamoDB
-
-📈 Current Roadmap
+## 📈 Current Roadmap
 
 [ ] AWS Certified Security – Specialty (Exam Prep)
 
@@ -61,6 +52,6 @@ Databases: PostgreSQL, MySQL, DynamoDB
 
 [ ] Implementing advanced CI/CD pipelines for multi-region deployments
 
-📬 Connect With Me
+## 📬 Connect With Me
 
 “Simulating a professional team workflow to build reliable project delivery.”
